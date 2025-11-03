@@ -1,0 +1,1 @@
+--set operatorji union, except, intersect
